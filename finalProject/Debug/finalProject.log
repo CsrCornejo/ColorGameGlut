@@ -1,0 +1,56 @@
+﻿Build started 4/27/2017 4:47:09 AM.
+     1>Project "C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\finalProject\finalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(87): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(100): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(361): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(367): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(426): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(436): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(452): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(506): warning C4244: '=' : conversion from 'GLfloat' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(507): warning C4244: '=' : conversion from 'GLfloat' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(512): warning C4244: '=' : conversion from 'GLfloat' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(517): warning C4244: '=' : conversion from 'GLfloat' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(518): warning C4244: '=' : conversion from 'GLfloat' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(524): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(530): warning C4244: '=' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(534): warning C4244: '=' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(538): warning C4244: '=' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(542): warning C4244: '=' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(544): warning C4244: '=' : conversion from 'GLint' to 'GLfloat', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(545): warning C4244: '=' : conversion from 'GLint' to 'GLfloat', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(548): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(552): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(555): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(559): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\cadal\documents\visual studio 2013\projects\graficas\finalproject\main.cpp(560): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\Debug\finalProject.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\Debug\finalProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\Debug\finalProject.lib" /MACHINE:X86 Debug\cube_gl.obj
+         Debug\image_loader.obj
+         Debug\main.obj
+         Debug\object_gl.obj
+         Debug\polygon_gl.obj
+         Debug\pyramid_gl.obj
+         Debug\quad_gl.obj
+         Debug\sphere_gl.obj
+         Debug\triangle_gl.obj
+         finalProject.vcxproj -> C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\Debug\finalProject.exe
+     1>Done Building Project "C:\Users\CADAL\documents\visual studio 2013\Projects\Graficas\finalProject\finalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
